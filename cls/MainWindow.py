@@ -80,6 +80,4 @@ class MainWindow():
         self.button_ok.place(x = 80, y = 280)
 
         self.win.mainloop()
-
-if __name__ == "__main__":
-    MainWindow().show()
+       
